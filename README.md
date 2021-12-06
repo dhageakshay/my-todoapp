@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/dhageakshay/my-todoapp.git ; cd todo-list-app/
+git clone https://github.com/dhageakshay/my-todoapp.git ; cd my-todoapp/
 ```
 
 ```sh
